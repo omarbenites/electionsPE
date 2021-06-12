@@ -3,6 +3,7 @@
 Dataset-Paquete en R de las Elecciones Generales Peru-2021, primera y segunda vuelta.
 
 El motivo de este paquete en forma de dataset es la de proveer los datos de los resultados de votos escrutados de las elecciones generales Peru 2021. Las elecciones son una fuente importate de información relevante para nuestro país y el acceso a este dataset es importante para analizar los resultados a nivel academico, profesional o como un simple ciudadano que quiere estar más informado, y entender como se distribuye el voto a nivel nacional.
+- El dataset contiene datos por mesa, posteriormente pondre tambien por ubigeo. 
 
 Pdta: Este paquete se ira actualizando conforme vayan terminando de impugnar las actas.
 
